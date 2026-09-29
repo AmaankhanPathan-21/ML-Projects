@@ -1,0 +1,36 @@
+{
+  "name": "Rustic Earth Poppins",
+  "dataColors": [
+    "#C5742B",
+    "#9D6B57",
+    "#3D4246",
+    "#C8C9CB",
+    "#CBD3C1",
+    "#9AA486"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#3D4246",
+  "tableAccent": "#C5742B",
+  "textClasses": {
+    "callout": {
+      "fontSize": 28,
+      "fontFace": "Poppins",
+      "color": "#3D4246"
+    },
+    "title": {
+      "fontSize": 16,
+      "fontFace": "Poppins",
+      "color": "#3D4246"
+    },
+    "header": {
+      "fontSize": 11,
+      "fontFace": "Poppins",
+      "color": "#3D4246"
+    },
+    "label": {
+      "fontSize": 10,
+      "fontFace": "Poppins",
+      "color": "#3D4246"
+    }
+  }
+}
